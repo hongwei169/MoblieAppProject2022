@@ -7,10 +7,10 @@ ID: G00388774
 - The App should use:
     - [] the built-in Data Binding properties – e.g. interpolation, two-way data binding.
     - [] navigation - At some point your app must navigate between at least 4 pages.
-       -  [movie-details,movies](/src/app/pages/)
+       -  [movie-details,movies]
     - [] an Ionic Native/Cordova plugin.
     - [x] a http client to read JSON data from an external URL.
-      - [movies.service.ts](src\app\servicesmovies.service.ts)
+      - [movies.service.ts]
     - [ ] Data Persistence.
 
 - [x] The App must be structured in standard, organised and consistent fashion.
